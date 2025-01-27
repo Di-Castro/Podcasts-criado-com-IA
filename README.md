@@ -18,7 +18,7 @@
 Projeto com o objetivo de gerar um podcast através de IA sobre o desenvolvimento e implementação de aplicações com a Inteligência Artificial Generativa. todos os prompts
 seguem abaixo.
 
-<a href="através de IA sobre o desenvolvimento e implementação de aplicações de Inteligência Artificial Generativa" title="Ouça o Audio agora!"> 📕Clique aqui baixar</a>
+<a href="https://fileport.io/wKCtSE36khZ2" title="Ouça o Audio agora!"> 📕Clique aqui baixar</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
